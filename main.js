@@ -29,3 +29,5 @@ function updateClock(){
 }
 
 updateClock();
+
+//edit this code and try to make it by using to string
